@@ -17,7 +17,7 @@ cdecimal==2.3
 conversion==0.0.3
 cryptography==2.7
 cycler==0.10.0
-dask==2.1.0
+dask==2021.10.0
 elementtree==1.2.6-20050316
 fastparquet==0.3.1
 gcsfs==0.3.0
