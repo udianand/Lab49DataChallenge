@@ -1,6 +1,6 @@
 Cython==0.29.12
 Dialog==0.2.0
-ipython==7.6.1
+ipython==7.16.3
 Image==1.5.27
 Numeric==24.2
 pyOpenSSL==19.0.0
