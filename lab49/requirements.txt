@@ -22,7 +22,7 @@ elementtree==1.2.6-20050316
 fastparquet==0.3.1
 gcsfs==0.3.0
 genapi==0.0.8
-protobuf==3.9.0
+protobuf==3.15.0
 hypothesis==4.28.2
 ipaddr==2.2.0
 lxml==4.3.4
