@@ -41,7 +41,7 @@ pickle5==0.0.8
 pretty==0.1
 psycopg2==2.8.3
 pudb==2019.1
-pyarrow==0.14.0
+pyarrow==0.15.1
 pymysql==0.9.3
 pytest==5.0.1
 qtpy==1.8.0
